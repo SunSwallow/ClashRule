@@ -23,4 +23,5 @@ DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,423down.com
 
 # Sunswallow Sites
-DOMAIN-SUFFIX, sunswallow.site
+#DOMAIN-SUFFIX, sunswallow.site
+DOMAIN-KEYWORD,fastlink
