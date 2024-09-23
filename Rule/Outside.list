@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,423down.com
 # Sunswallow Sites
 #DOMAIN-SUFFIX, sunswallow.site
 DOMAIN-KEYWORD,fastlink
+
+DOMAIN-SUFFIX, wandb.ai
