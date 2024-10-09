@@ -4,6 +4,7 @@ IP-CIDR,207.148.64.114/32,no-resolve
 DOMAIN-SUFFIX,emby.vault647.com
 
 DOMAIN-SUFFIX,min.io
+DOMAIN-SUFFIX,cloudflare.com
 
 #谷歌大陆节点代理
 DOMAIN-SUFFIX,gstatic.com
