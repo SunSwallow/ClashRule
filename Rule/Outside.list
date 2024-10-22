@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,emby.vault647.com
 
 DOMAIN-SUFFIX,min.io
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,openreview.net
 
 #谷歌大陆节点代理
 DOMAIN-SUFFIX,gstatic.com
