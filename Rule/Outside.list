@@ -3,6 +3,10 @@ DOMAIN-SUFFIX,gw.sky-ip.net
 IP-CIDR,207.148.64.114/32,no-resolve
 DOMAIN-SUFFIX,emby.vault647.com
 
+#PT站点
+DomainKeyword,m-team
+DOMAIN-SUFFIX,hdkyl.in
+
 DOMAIN-SUFFIX,min.io
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,arxiv.org
