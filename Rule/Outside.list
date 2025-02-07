@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,emby.vault647.com
 #PT站点
 DomainKeyword,m-team
 DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX, javdb.com
+DOMAIN-SUFFIX, javlibrary.com
+DOMAIN-SUFFIX, sehuatang.org
 
 DOMAIN-SUFFIX,min.io
 DOMAIN-SUFFIX,cloudflare.com
@@ -38,8 +42,6 @@ DOMAIN-KEYWORD,fastlink
 DOMAIN-SUFFIX, wandb.ai
 DOMAIN-SUFFIX, openreview.net
 DOMAIN-SUFFIX, vertex-app.top
-DOMAIN-SUFFIX, javdb.com
-DOMAIN-SUFFIX, javlibrary.com
 DOMAIN-SUFFIX, missav.com
 DOMAIN-SUFFIX, parsec.app
-DOMAIN-SUFFIX, sehuatang.org
+
