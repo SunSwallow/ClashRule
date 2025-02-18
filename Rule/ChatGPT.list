@@ -7,6 +7,9 @@ PROCESS-NAME,msedgewebview2.exe
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
 # 风控
 DOMAIN-SUFFIX,sentry.io
 
