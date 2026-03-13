@@ -3,11 +3,28 @@ DOMAIN-SUFFIX,gw.sky-ip.net
 IP-CIDR,207.148.64.114/32,no-resolve
 DOMAIN-SUFFIX,emby.vault647.com
 
+#PT站点
+DomainKeyword,m-team
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,sehuatang.org
+DOMAIN-SUFFIX,imgbox.com
+
+DOMAIN-SUFFIX,min.io
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,openreview.net
+
 #谷歌大陆节点代理
 DOMAIN-SUFFIX,gstatic.com
 
 #谷歌play
 DOMAIN-SUFFIX,googleapis.cn
+
+# 路过图床
+DOMAIN-SUFFIX,imgse.com
 
 # 币安
 DOMAIN-SUFFIX,binance.com
@@ -19,12 +36,12 @@ DOMAIN-SUFFIX,livednow.com
 # 423down
 DOMAIN-SUFFIX,423down.com
 
-# 小H片
-DOMAIN-SUFFIX,javdb.com
-
-# NodeSeek
-DOMAIN-SUFFIX,nodeseek.com
-
-# 萌番组
-bangumi.moe
+# Sunswallow Sites
+#DOMAIN-SUFFIX,sunswallow.site
+DOMAIN-KEYWORD,fastlink
+DOMAIN-SUFFIX,wandb.ai
+DOMAIN-SUFFIX,openreview.net
+DOMAIN-SUFFIX,vertex-app.top
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,parsec.app
 

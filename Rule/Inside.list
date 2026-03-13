@@ -25,8 +25,8 @@ DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,dyndns.org
 
 # PornEmby
-DOMAIN-SUFFIX,p.once.im
-DOMAIN-SUFFIX,g.once.im
+DOMAIN-SUFFIX,sptv.ii00.cc
+DOMAIN-SUFFIX,sgtv.ii00.cc
 
 # Apple ID 共享
 DOMAIN-SUFFIX,idshare001.me
@@ -38,22 +38,5 @@ DOMAIN-SUFFIX,anydesk.com
 # 廣宇
 DOMAIN-SUFFIX,xiaoyuz.f3322.net
 
-# TAG
-DOMAIN-KEYWORD,tagss
-DOMAIN-SUFFIX,central-world.org
-
-# 路过图床
-DOMAIN-SUFFIX,imgse.com
-
-# vod 订阅
-DOMAIN-SUFFIX,cdnlz22.com 
-
-# naixi
-DOMAIN-SUFFIX,metaglide.org
-DOMAIN-SUFFIX,nxonearth.com
-
-# YTOO
-DOMAIN-SUFFIX,y-too.com
-
-# Emby
-DOMAIN-SUFFIX,embyvip.org
+# Sunswallow Sites
+DOMAIN-SUFFIX, sunswallow.org
