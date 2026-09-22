@@ -1,3 +1,9 @@
+# SunSwallow 个人配置
+
+个人订阅入口：[ClashRule.ini](https://raw.githubusercontent.com/SunSwallow/ClashRule/main/ClashRule.ini)。
+
+本项目基于最新上游应用个人定制，并保留 SteamCN 直连规则。同步基准、定制清单与维护方式见 [UPSTREAM_SYNC.md](UPSTREAM_SYNC.md)。`GeneralClashRule.ini` 是保留的上游默认配置；下方为上游教程。
+
 # 订阅转换教程
 
 ***
