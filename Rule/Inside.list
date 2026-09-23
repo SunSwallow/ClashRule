@@ -54,3 +54,6 @@ DOMAIN-SUFFIX,xiaoyuz.f3322.net
 
 # Sunswallow Sites
 DOMAIN-SUFFIX,sunswallow.org
+
+# Tailscale
+DOMAIN-SUFFIX,tailf695a8.ts.net
