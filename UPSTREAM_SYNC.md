@@ -20,16 +20,17 @@
 
 - “🧚 AI节点”组手动选择香港、日本、美国节点及全部符合自建筛选条件的节点；AI 策略可选择该组或自建节点。
 - 自建节点使用原有表达式并加入 `rak`，完整关键词为 `自建|Craig|hk-vmess|HY|海晏河清|backup|_|sunswallow|lightsail|rak`。这是名称匹配，带下划线的节点也归入自建。
+- “🚁 自建节点”组还可选择“✈️ 手动选择”或“🛩️ 手动选择备用”，跟随对应组当前选择的节点。
 - “🌐 仅非自建节点”组承接 `Rule/NotSelf.list` 的四个站点，使用自建表达式的反向筛选，实际排除符合自建条件的节点。以后修改自建关键词时，必须同步 AI 节点与仅非自建节点的筛选。
 - 全局自动选择、故障转移的筛选保持不变：名称不含电信、联通、移动的自建节点（包括 rak）原本就会参与；AI 节点和自建节点组仍为手动选择。
 - “漏网之鱼”首选国内流量；国内流量组不包含国外流量选项。
 - 保留 HBOGO/HBOMAX 分组及规则源、YouTube 排除印度的筛选、巴哈姆特仅筛选台湾。
-- 保留个人规则的优先级：GitHub、个人直连、个人代理、非自建、ChatGPT/Claude/AI；国外媒体位于中国 GEOIP 之后、FINAL 之前。
+- 保留个人规则的优先级：NodeSeek 自建分流、GitHub、个人直连、个人代理、非自建、ChatGPT/Claude/AI；国外媒体位于中国 GEOIP 之后、FINAL 之前。
 - 保留 `ChatGPT.list` 的 poecdn.net、x.ai、grok.com 等个人补充和原有引用。
 - 直连列表加入 sunswallow.org，将 p.once.im/g.once.im 替换为 sptv.ii00.cc/sgtv.ii00.cc。
 - 直连列表包含 `DOMAIN-SUFFIX,tailf695a8.ts.net`，覆盖该域名及其所有子域名。
 - 继续从个人直连列表排除 tagss 关键词、central-world.org、imgse.com、cdnlz22.com、metaglide.org、nxonearth.com、y-too.com、embyvip.org；imgse.com 在个人代理列表中。
-- 保留 PT、科研、工具等个人代理规则；继续从个人代理列表排除 nodeseek.com 和裸域名 bangumi.moe。删除自定义规则不代表强制直连，仍由后续规则决定。
+- 保留 PT、科研、工具等个人代理规则；nodeseek.com 及其子域名通过个人入口中的优先规则分流到“🚁 自建节点”，不加入个人代理列表。裸域名 bangumi.moe 仍不加入个人代理列表，由后续规则决定去向。
 
 ## 本次明确接受的上游更新
 
